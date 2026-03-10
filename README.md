@@ -1,6 +1,6 @@
 # Small-Projects
 
-A collection of small, simple Python projects — ideal for learning, experimenting, or having fun.  
+A collection of small, simple Python projects — I made these whilst learning, experimenting, or having fun.  
 Includes games and small utilities written in Python.
 
 
@@ -12,17 +12,11 @@ Includes games and small utilities written in Python.
 | `PIG Game.py` | A simple implementation of the “PIG” dice game in Python. |
 | `Slot Machine.py` | A basic slot-machine simulator (text-based). |
 | `Stopwatch.py` | A stopwatch / timer application in Python. |
-
-
-## ✅ Purpose
-
-- Practice Python fundamentals in small, contained scripts.  
-- Demonstrate simple programs and game logic.  
-- Provide easy-to-run examples for learning or modification.  
+  
 
 
 
-## 💡 What this Repo Is Good For
+## 💡 How these projects helped me
 
 - Learning and experimenting with Python.  
 - Using as boilerplate or inspiration for bigger projects.  
