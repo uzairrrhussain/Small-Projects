@@ -1,6 +1,6 @@
 # Small-Projects
 
-A collection of small, simple Python projects — I made these whilst learning, experimenting, or having fun.  
+A collection of small, simple Python projects — I made these whilst learning python. 
 Includes games and small utilities written in Python.
 
 
@@ -19,8 +19,8 @@ Includes games and small utilities written in Python.
 ## 💡 How these projects helped me
 
 - Learning and experimenting with Python.  
-- Using as boilerplate or inspiration for bigger projects.  
-- Practising Git fundamentals by modifying, branching, or extending these small projects.  
+- Using as inspiration for bigger projects.  
+- Practising Git fundamentals.
 
 
 ---  
